@@ -1,0 +1,3 @@
+C:/Users/RYZEN  5/Desktop/Ingenieria en sistemas/Sexto semestre/programacion 3/Taller listas dobles/linkDouble/cmake-build-debug/CMakeFiles/linkDouble.dir
+C:/Users/RYZEN  5/Desktop/Ingenieria en sistemas/Sexto semestre/programacion 3/Taller listas dobles/linkDouble/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/RYZEN  5/Desktop/Ingenieria en sistemas/Sexto semestre/programacion 3/Taller listas dobles/linkDouble/cmake-build-debug/CMakeFiles/rebuild_cache.dir
